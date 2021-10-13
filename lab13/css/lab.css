@@ -1,0 +1,35 @@
+h1 {
+    width 500px;
+    border: solid 10px #444444;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font-size: 46px;
+  ;}
+  h2 {
+      width 500px;
+      font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+      font-size: 36px;
+    ;}
+p {
+  font-size: 14px;
+}
+
+
+.red-text {
+  color: red;
+  font-size: 60px;
+}
+
+.green-text {
+  color: green;
+  font-size: 60px;
+}
+
+.orange-text {
+  color: orange;
+  font-size: 60px;
+}
+
+h3 {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font-size: 15;
+}
