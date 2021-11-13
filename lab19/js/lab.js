@@ -13,6 +13,7 @@ $('#activate').click(function(){
     $.ajax({
         // Endpoint
         url: URL,
+
         type: "GET",
         // dataType : "json",
     })
@@ -21,5 +22,6 @@ $('#activate').click(function(){
         var printableData = "<pre>" + JSON.stringify(data, null, 2) + "</pre>";
         // Output to HTML
          $("#output").append("<p>" + JSON.stringify(data));
+
     })
 });
