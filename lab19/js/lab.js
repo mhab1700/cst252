@@ -4,7 +4,7 @@
 
 
 //Get random trivia from numbersapi
-URL = "http://numbersapi.com/random/trivia"
+URL = "https://www.boredapi.com/api/activity/"
 
 
 // Click Function
